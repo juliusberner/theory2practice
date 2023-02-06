@@ -1,6 +1,6 @@
 # Accurate Learning with Neural Networks - from Theory to Practice
 
-> Accompanying code for the paper ['Training ReLU Networks to high uniform accuracy is 
+> Accompanying code for the [ICLR 2023](https://openreview.net/forum?id=nchvKfvNeX0) paper ['Learning ReLU Networks to high uniform accuracy is 
 > intractable'](https://arxiv.org/abs/2205.13531). Implemented in [PyTorch](https://pytorch.org/), experiment execution and tracking using [Ray Tune](https://www.ray.io/ray-tune) 
 > and [Weights & Biases](https://wandb.ai/).
 
